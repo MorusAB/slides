@@ -1,4 +1,4 @@
 slides
 ======
 
-Slides from our presenations
+Slides from our presentations at various meetings, events and conferences.
